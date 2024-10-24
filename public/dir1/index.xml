@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir1s on Matias&#39;s personal website</title>
+    <link>http://localhost:1313/dir1/</link>
+    <description>Recent content in Dir1s on Matias&#39;s personal website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2024 18:27:13 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/dir1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B</title>
+      <link>http://localhost:1313/dir1/b/</link>
+      <pubDate>Thu, 24 Oct 2024 18:27:13 +0200</pubDate>
+      <guid>http://localhost:1313/dir1/b/</guid>
+      <description>&lt;h1 id=&#34;this-is-dirbmd&#34;&gt;This is dir/b.md!&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
